@@ -1,17 +1,22 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "github_site"
+  title: "Welcome!"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - papers.qmd
+      - cv.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: lumen
+      dark: cyborg
     css: styles.css
     toc: true
 

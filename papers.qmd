@@ -1,0 +1,10 @@
+---
+title: "Papers"
+listing:
+  contents: 
+    - "papers/*.qmd"
+
+  type: default
+  
+---
+

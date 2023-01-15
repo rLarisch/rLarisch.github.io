@@ -1,7 +1,26 @@
 ---
-title: "github_page"
+title: "René Larisch"
+image: images/laren.png
+about: 
+  template: solana
+  image-shape: round
+  image-width: 12em
+  links:
+    - text: github
+      href: https://github.com/rLarisch
+      icon: "github"
 ---
 
-This is a Quarto website.
+## Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My name is René Larisch and I'm a PhD student at the lab of Artificial Intelligence of Prof. Dr. Fred H. Hamer at the Technical University, Chemnitz.
+
+## Interests
+
+I'm interested in spiking neural networks (SNNs) and hwo sensory representations can be encoded by them.
+Especially the role of plasticity and inhibition drives me nuts.
+
+
+## Conferences
+
+## Teaching experiences
