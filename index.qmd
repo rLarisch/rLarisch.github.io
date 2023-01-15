@@ -17,9 +17,14 @@ My name is René Larisch and I'm a PhD student at the lab of Artificial Intellig
 
 ## Interests
 
-I'm interested in spiking neural networks (SNNs) and hwo sensory representations can be encoded by them.
-Especially the role of plasticity and inhibition drives me nuts.
+My research interests range from inhibition in spiking neural networks to deep learning networks.
+They cover the following topics_
 
+ - representation of input information in neural networks
+ - plasticity and inhibition
+ - spiking neural networks
+ - attention-based deep learning
+ - neuromporphic programming 
 
 ## Conferences
 

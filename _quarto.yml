@@ -8,9 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - papers.qmd
       - cv.qmd
+  cookie-consent:
+    type: express
+    style: simple
+    palette: dark
+
+
 
 format:
   html:

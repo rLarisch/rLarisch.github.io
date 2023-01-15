@@ -5,6 +5,6 @@ listing:
     - "papers/*.qmd"
 
   type: default
-  
+  sort: "date"
 ---
 
