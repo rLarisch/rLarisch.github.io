@@ -31,6 +31,3 @@ Or as a list:
  - Neuromorphic programming 
 
 
-## Conferences
-
-## Teaching experiences

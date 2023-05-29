@@ -1,10 +1,24 @@
 ---
-title: "Papers"
-listing:
-  contents: 
-    - "conferences/conferences.qmd"
-
-  type: default
-  sort: "date"
+title: "Conference Contributions"
 ---
 
+- Larisch, R., Hamker, F. H. 2023, Spatiotemporal dynamics in a V1 model caused by surround delays in retinal cells \
+  32nd Annual Computational Neuroscience Meeting, 2023, Leipzig
+
+- Dinkelbach, H. Ü., Larisch, R., Vitay, J., Hamker, F. H. 2023 ANN-to-SNN conversion in the neural simulator ANNarchy \
+  32nd Annual Computational Neuroscience Meeting, 2023, Leipzig
+
+- Teichmann, M., Larisch, R., Hamker F. H. 2022, Robustness of biologically grounded neural networks against image perturbations. \
+  Bernstein Conference, 2022, Berlin, doi: 10.12751/nncn.bc2022.304
+
+- Schuster, F., Larisch, R., 2022 KI-basierte Angriffserkennung: Von der Blackbox zum verständlichen System \
+  54. Kraftwerkstechni­sches Kolloquium 2022, Dresden
+
+- Larisch, R., Gönner, L., Teichmann, M., Hamker, F. H. 2021, Inhibitory plasticity- one mechanism to shape representational an metabolic efficiency \
+  Bernstein Conference 2021, Berlin, doi: 10.12751/nncn.bc2021.p069
+
+- Larisch, R., Hamker, F. H. 2020, Retinal surround delay leads to spatiotemporal behavior in the visual pathway. \
+  Bernstein Conference, 2020, Berlin, doi: 10.12751/nncn.bc2020.0190
+
+- Larisch, R., Gönner, L., Teichmann, M., Hamker, F. H. 2018. Voltage-based STDP and inhibitory plasticity cooperate to improve stimulus coding in a model of V1 simple-cells. \
+  Bernstein Conference, 2018, Berlin, doi: 10.12751/nncn.bc2018.0064

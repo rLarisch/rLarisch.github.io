@@ -21,39 +21,18 @@
     "text": "Interests\nMy research interests range from the dynamics caused by inhibitory plasticity in spiking neural networks, over neuromorphic computing to transformer models in deep learning. Or as a list:\n\nRepresentation of input information in neural networks\nPlasticity and inhibition\nSpiking neural networks\nAttention-based deep learning\nNeuromorphic programming"
   },
   {
-    "objectID": "index.html#conferences",
-    "href": "index.html#conferences",
-    "title": "René Larisch",
-    "section": "Conferences",
-    "text": "Conferences"
-  },
-  {
-    "objectID": "index.html#teaching-experiences",
-    "href": "index.html#teaching-experiences",
-    "title": "René Larisch",
-    "section": "Teaching experiences",
-    "text": "Teaching experiences"
-  },
-  {
     "objectID": "papers.html",
     "href": "papers.html",
     "title": "Papers",
     "section": "",
-    "text": "A Neural Spiking Approach Compared to Deep Feedforward Networks on Stepwise Pixel Erasement\n\n\n\n\n\nContribution to the ICANN 2018 conference.\n\n\n\n\n\n\nSep 28, 2018\n\n\n\n\n\n\n\n\nSensory coding and contrast invariance emerge from the control of plastic inhibition over emergent selectivity\n\n\n\n\n\nPaper about the influence of inhibitory plasticity on the development of a V1 L4 SNN.\n\n\n\n\n\n\nNov 29, 2021\n\n\n\n\n\n\n\n\nPerformance of biologically grounded models of the early visual system on standard object recognition tasks\n\n\n\n\n\nPerformances of two biologically grounded neural networks on common object recognition tasks.\n\n\n\n\n\n\nDec 1, 2021\n\n\n\n\n\n\nNo matching items"
+    "text": "A Neural Spiking Approach Compared to Deep Feedforward Networks on Stepwise Pixel Erasement\n\n\n\n\n\nContribution to the ICANN 2018 conference.\n\n\n\n\n\n\nSep 28, 2018\n\n\n\n\n\n\n\n\n[Re] Connectivity reflects coding a model of voltage-based STDP with homeostats\n\n\n\n\n\nReScience about an implementation of the Clopath et al. (2010) voltage-based triplet STDP rule in ANNarchy\n\n\n\n\n\n\nOct 24, 2019\n\n\n\n\n\n\n\n\nSensory coding and contrast invariance emerge from the control of plastic inhibition over emergent selectivity\n\n\n\n\n\nPaper about the influence of inhibitory plasticity on the development of a V1 L4 SNN.\n\n\n\n\n\n\nNov 29, 2021\n\n\n\n\n\n\n\n\nPerformance of biologically grounded models of the early visual system on standard object recognition tasks\n\n\n\n\n\nPerformances of two biologically grounded neural networks on common object recognition tasks.\n\n\n\n\n\n\nDec 1, 2021\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "conferences.html",
     "href": "conferences.html",
-    "title": "Papers",
+    "title": "Conference Contributions",
     "section": "",
-    "text": "Conference contributions\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "conferences/conferences.html",
-    "href": "conferences/conferences.html",
-    "title": "Conference contributions",
-    "section": "",
-    "text": "Teichmann, M., Larisch, R., Hamker F. H. 2022, Robustness of biologically grounded neural networks against image perturbations. Bernstein Conference, 2022, Berlin, doi: 10.12751/nncn.bc2022.304\nLarisch, R., Gönner, L., Teichmann, M., Hamker, F. H. 2021, Inhibitory plasticity- one mechanism to shape representational an metabolic efficiency Bernstein Conference 2021, Berlin, doi: 10.12751/nncn.bc2021.p069\nLarisch, R., Hamker, F. H. 2020, Retinal surround delay leads to spatiotemporal behavior in the visual pathway. Bernstein Conference, 2020, Berlin, doi: 10.12751/nncn.bc2020.0190\nLarisch, R., Gönner, L., Teichmann, M., Hamker, F. H. 2018. Voltage-based STDP and inhibitory plasticity cooperate to improve stimulus coding in a model of V1 simple-cells. Bernstein Conference, 2018, Berlin, doi: 10.12751/nncn.bc2018.0064"
+    "text": "Larisch, R., Hamker, F. H. 2023, Spatiotemporal dynamics in a V1 model caused by surround delays in retinal cells\n32nd Annual Computational Neuroscience Meeting, 2023, Leipzig\nDinkelbach, H. Ü., Larisch, R., Vitay, J., Hamker, F. H. 2023 ANN-to-SNN conversion in the neural simulator ANNarchy\n32nd Annual Computational Neuroscience Meeting, 2023, Leipzig\nTeichmann, M., Larisch, R., Hamker F. H. 2022, Robustness of biologically grounded neural networks against image perturbations.\nBernstein Conference, 2022, Berlin, doi: 10.12751/nncn.bc2022.304\nSchuster, F., Larisch, R., 2022 KI-basierte Angriffserkennung: Von der Blackbox zum verständlichen System\n\n\nKraftwerkstechni­sches Kolloquium 2022, Dresden\n\nLarisch, R., Gönner, L., Teichmann, M., Hamker, F. H. 2021, Inhibitory plasticity- one mechanism to shape representational an metabolic efficiency\nBernstein Conference 2021, Berlin, doi: 10.12751/nncn.bc2021.p069\nLarisch, R., Hamker, F. H. 2020, Retinal surround delay leads to spatiotemporal behavior in the visual pathway.\nBernstein Conference, 2020, Berlin, doi: 10.12751/nncn.bc2020.0190\nLarisch, R., Gönner, L., Teichmann, M., Hamker, F. H. 2018. Voltage-based STDP and inhibitory plasticity cooperate to improve stimulus coding in a model of V1 simple-cells.\nBernstein Conference, 2018, Berlin, doi: 10.12751/nncn.bc2018.0064"
   },
   {
     "objectID": "papers/Larisch2021.html",
@@ -68,6 +47,13 @@
     "title": "A Neural Spiking Approach Compared to Deep Feedforward Networks on Stepwise Pixel Erasement",
     "section": "",
     "text": "Abstract\nIn real world scenarios, objects are often partially occluded. This requires a robustness for object recognition against these perturbations. Convolutional networks have shown good performances in classification tasks. The learned convolutional filters seem similar to receptive fields of simple cells found in the primary visual cortex. Alternatively, spiking neural networks are more biological plausible. We developed a two layer spiking network, trained on natural scenes with a biologically plausible learning rule. It is compared to two deep convolutional neural networks using a classification task of stepwise pixel erasement on MNIST. In comparison to these networks the spiking approach achieves good accuracy and robustness.\nThis work was published in Artificial Neural Networks and Machine Learning - ICANN 2018. - Cham : Springer International Publishing. 253-262.\nPlease cite this work as:\n‘Larisch, R., Teichmann, M., Hamker, F.H. (2018). “A Neural Spiking Approach Compared to Deep Feedforward Networks on Stepwise Pixel Erasement.” Artificial Neural Networks and Machine Learning - ICANN 2018. - Cham : Springer International Publishing. 253-262.’\ndoi-Link: http://dx.doi.org/10.1007/978-3-030-01418-6_25\nDownload an arXive pre-print here"
+  },
+  {
+    "objectID": "papers/Larisch_2019.html",
+    "href": "papers/Larisch_2019.html",
+    "title": "[Re] Connectivity reflects coding a model of voltage-based STDP with homeostats",
+    "section": "",
+    "text": "About the paper\nThis paper is published in the open-access peer-reviewed journal ReScience. The aim of the journal is to provide a place where scientists and researcher can present their reimplementation about previous published modells, to discuss difficulties in the reimplementation or the reproducing of original results (see for more information: https://peerj.com/articles/cs-142/. In the paper provides a detailed analysis of the reimplimentation of the Clopath et al. (2010) voltage-based triplet STDP rule in the neurosimulator ANNarchy. It discuss different parts of the reimplimentation by its self and why some results could not replicated 100% accuratly.\nPlease cite the article as:\nLarisch, R. 2019. [Re] Connectivity reflects coding a model of voltage-based STDP with homeostasis. ReScience C 5, 3, #2.\n[doi Link: 10.5281/zenodo.3538217] (http://dx.doi.org/10.5281/zenodo.3538217)\nDownload the article here\nLink to the corresponding github repo"
   },
   {
     "objectID": "papers/Teichmann_Larisch_2021.html",
