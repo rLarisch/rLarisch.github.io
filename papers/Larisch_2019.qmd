@@ -1,0 +1,28 @@
+---
+title: "[Re] Connectivity reflects coding a model of voltage-based STDP with homeostats"
+description: 'ReScience about an implementation of the Clopath et al. (2010) voltage-based triplet STDP rule in ANNarchy'
+date: 2019-10-24
+---
+
+### About the paper
+
+This paper is published in the open-access peer-reviewed journal _ReScience_.
+The aim of the journal is to provide a place where scientists and researcher can present their reimplementation about previous published modells, to discuss
+difficulties in the reimplementation or the reproducing of original results (see for more information: https://peerj.com/articles/cs-142/.
+In the paper provides a detailed analysis of the reimplimentation of the Clopath et al. (2010) voltage-based triplet STDP rule in the neurosimulator ANNarchy.
+It discuss different parts of the reimplimentation by its self and why some results could not replicated 100% accuratly.
+
+
+Please cite the article as:
+
+Larisch, R. 2019. [Re] Connectivity reflects coding a model of voltage-based STDP with homeostasis. ReScience C 5, 3, #2.
+
+[doi Link: 10.5281/zenodo.3538217] (http://dx.doi.org/10.5281/zenodo.3538217)
+
+[Download the article here](https://zenodo.org/record/3538217/files/article.pdf)
+
+[Link to the corresponding github repo](https://github.com/rLarisch/ReScience-submission/tree/Larisch-2019/code)
+
+
+
+
