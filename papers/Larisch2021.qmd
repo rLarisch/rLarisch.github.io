@@ -24,6 +24,7 @@ Larisch,R., Gönner, L., Teichmann, M., Hamker, F. H. (2021). "Sensory coding an
 
 [Download a bioRxiv pre-pring here ] (https://www.biorxiv.org/content/10.1101/2020.04.07.029157v3.full.pdf)
 
+<p></p>
 
-paperurl: ''
+[Python code on Github] (https://github.com/hamkerlab/Larisch2021_PLOSComBio)
 

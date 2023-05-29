@@ -9,22 +9,27 @@ about:
     - text: github
       href: https://github.com/rLarisch
       icon: "github"
+    - text: twitter
+      href: https://twitter.com/rene_larisch
+      icon: "twitter"
 ---
 
 ## Welcome!
 
-My name is René Larisch and I'm a PhD student at the lab of Artificial Intelligence of Prof. Dr. Fred H. Hamer at the Technical University, Chemnitz.
+Hello and welcome visitor!
+My name is René Larisch and I'm a PhD student at the lab of Artificial Intelligence of Prof. Dr. Fred H. Hamker at the University of Technology in Chemnitz.
 
 ## Interests
 
-My research interests range from inhibition in spiking neural networks to deep learning networks.
-They cover the following topics_
+My research interests range from the dynamics caused by inhibitory plasticity in spiking neural networks, over neuromorphic computing to transformer models in deep learning. 
+Or as a list:
 
- - representation of input information in neural networks
- - plasticity and inhibition
- - spiking neural networks
- - attention-based deep learning
- - neuromporphic programming 
+ - Representation of input information in neural networks
+ - Plasticity and inhibition
+ - Spiking neural networks
+ - Attention-based deep learning
+ - Neuromorphic programming 
+
 
 ## Conferences
 

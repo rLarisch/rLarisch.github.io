@@ -1,0 +1,10 @@
+---
+title: "Papers"
+listing:
+  contents: 
+    - "conferences/conferences.qmd"
+
+  type: default
+  sort: "date"
+---
+
