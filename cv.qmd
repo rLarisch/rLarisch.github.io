@@ -2,4 +2,50 @@
 title: "Curriculum Vitae"
 ---
 
-## Curriculum Vitae
+**René Larisch** \
+Blücherstraße 19 \
+09126 Chemnitz \
+renelarischif@gmail.com \
+rene.larisch@informatik.tu-chemnitz.de \
+
+
++------------------------------------------+---------------------+
+| Eductation                               |                     |
++:=========================================+====================:+
+| PhD at the Professorship                 |     since 2016      |
+| of Artificial Intelligence               |                     |
+| University of Technology Chemnitz        |                     |
++------------------------------------------+---------------------+
+| Diploma in computer science              |  2008 - 2016        |
+| University of Technology Chemnitz        |                     |
++------------------------------------------+---------------------+
+
++------------------------------------------+---------------------+
+| Teaching Experience                      |                     |
++:=========================================+====================:+
+|  - Machine Learning                      | winter semster 17\  |
+|  - Machine Learning                      | winter semster 18   |
++------------------------------------------+---------------------+
+
+
++------------------------------------------+----------------------+
+| Scholarshipts/Grant                      |                      |
++:=========================================+=====================:+
+|Grant: _Landesinnovationspromotion_       | 10.2017 - 09.2020    |
+|Founded by the European Social Fund(ESF)  |                      |
+|and the Free State of Saxony              |                      |
++------------------------------------------+----------------------+
+| Travelgrant for a conference application |  10.2018             |
+| Founded by **DAAD** and **InProTUC**     |                      |
++------------------------------------------+----------------------+
+
++------------------------------------------+----------------------+
+| Skills                                   |                      |
++:=========================================+=====================:+
+| - Programming languages: Python, C++     |                      |
++------------------------------------------+----------------------+
+| - Machine learning frameworks:           |                      |
+|   tensorflow, pythorch, scikit-learn     |                      |
++------------------------------------------+----------------------+
+
+

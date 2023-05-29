@@ -35,6 +35,13 @@
     "text": "Larisch, R., Hamker, F. H. 2023, Spatiotemporal dynamics in a V1 model caused by surround delays in retinal cells\n32nd Annual Computational Neuroscience Meeting, 2023, Leipzig\nDinkelbach, H. Ü., Larisch, R., Vitay, J., Hamker, F. H. 2023 ANN-to-SNN conversion in the neural simulator ANNarchy\n32nd Annual Computational Neuroscience Meeting, 2023, Leipzig\nTeichmann, M., Larisch, R., Hamker F. H. 2022, Robustness of biologically grounded neural networks against image perturbations.\nBernstein Conference, 2022, Berlin, doi: 10.12751/nncn.bc2022.304\nSchuster, F., Larisch, R., 2022 KI-basierte Angriffserkennung: Von der Blackbox zum verständlichen System\n\n\nKraftwerkstechni­sches Kolloquium 2022, Dresden\n\nLarisch, R., Gönner, L., Teichmann, M., Hamker, F. H. 2021, Inhibitory plasticity- one mechanism to shape representational an metabolic efficiency\nBernstein Conference 2021, Berlin, doi: 10.12751/nncn.bc2021.p069\nLarisch, R., Hamker, F. H. 2020, Retinal surround delay leads to spatiotemporal behavior in the visual pathway.\nBernstein Conference, 2020, Berlin, doi: 10.12751/nncn.bc2020.0190\nLarisch, R., Gönner, L., Teichmann, M., Hamker, F. H. 2018. Voltage-based STDP and inhibitory plasticity cooperate to improve stimulus coding in a model of V1 simple-cells.\nBernstein Conference, 2018, Berlin, doi: 10.12751/nncn.bc2018.0064"
   },
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "René Larisch\nBlücherstraße 19\n09126 Chemnitz\nrenelarischif@gmail.com\nrene.larisch@informatik.tu-chemnitz.de\n\n\n\n\n\n\n\n\nEductation\n\n\n\n\n\nPhD at the Professorship of Artificial Intelligence University of Technology Chemnitz\nsince 2016\n\n\nDiploma in computer science University of Technology Chemnitz\n2008 - 2016\n\n\n\n\n\n\n\n\n\n\nTeaching Experience\n\n\n\n\n\n\nMachine Learning\nMachine Learning\n\nwinter semster 17\nwinter semster 18\n\n\n\n\n\n\n\n\n\n\nScholarshipts/Grant\n\n\n\n\n\nGrant: Landesinnovationspromotion Founded by the European Social Fund(ESF) and the Free State of Saxony\n10.2017 - 09.2020\n\n\nTravelgrant for a conference application Founded by DAAD and InProTUC\n10.2018\n\n\n\n\n\n\n\n\n\n\nSkills\n\n\n\n\n\n\nProgramming languages: Python, C++\n\n\n\n\n\nMachine learning frameworks: tensorflow, pythorch, scikit-learn"
+  },
+  {
     "objectID": "papers/Larisch2021.html",
     "href": "papers/Larisch2021.html",
     "title": "Sensory coding and contrast invariance emerge from the control of plastic inhibition over emergent selectivity",
