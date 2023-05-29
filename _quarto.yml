@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - papers.qmd
+      - conferences.qmd
       - cv.qmd
   cookie-consent:
     type: express
