@@ -12,9 +12,9 @@ about:
     - text: twitter
       href: https://twitter.com/rene_larisch
       icon: "twitter"
-    - text: ResearchGate
+    - text: researchgate
       href: https://www.researchgate.net/profile/Rene-Larisch
-      icon: "ResearchGate"
+      icon: "researchgate"
 ---
 
 ## Welcome! 
