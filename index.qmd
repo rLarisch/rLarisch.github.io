@@ -12,9 +12,12 @@ about:
     - text: twitter
       href: https://twitter.com/rene_larisch
       icon: "twitter"
+    - text: ResearchGate
+      href: https://www.researchgate.net/profile/Rene-Larisch
+      icon: "ResearchGate"
 ---
 
-## Welcome!
+## Welcome! 
 
 Hello and welcome visitor!
 My name is René Larisch and I'm a PhD student at the lab of Artificial Intelligence of Prof. Dr. Fred H. Hamker at the University of Technology in Chemnitz.
