@@ -14,7 +14,7 @@ Please cite this work as:
 
 Larisch,R., Gönner, L., Teichmann, M., Hamker, F. H. (2021). "Sensory coding and contrast invariance emerge from the control of plastic inhibition over emergent selectivity." <i>PLoS Comput. Biol.</i>
 
-[doi-Link: https://doi.org/10.1371/journal.pcbi.1009566](https://doi.org/10.1371/journal.pcbi.1009566)
+doi-Link: [https://doi.org/10.1371/journal.pcbi.1009566](https://doi.org/10.1371/journal.pcbi.1009566)
 
 <p></p>
 
@@ -22,9 +22,9 @@ Larisch,R., Gönner, L., Teichmann, M., Hamker, F. H. (2021). "Sensory coding an
 
 <p></p>
 
-[Download a bioRxiv pre-pring here ] (https://www.biorxiv.org/content/10.1101/2020.04.07.029157v3.full.pdf)
+[Download a bioRxiv pre-print here ](https://www.biorxiv.org/content/10.1101/2020.04.07.029157v3.full.pdf)
 
 <p></p>
 
-[Python code on Github] (https://github.com/hamkerlab/Larisch2021_PLOSComBio)
+[Python code on Github](https://github.com/hamkerlab/Larisch2021_PLOSComBio)
 

@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2018-09-28">
-<meta name="description" content="Contribution to the ICANN 2018 conference.">
+<meta name="dcterms.date" content="2024-02-02">
+<meta name="description" content="- preprint -">
 
-<title>Welcome! - A Neural Spiking Approach Compared to Deep Feedforward Networks on Stepwise Pixel Erasement</title>
+<title>Welcome! - A systematic analysis of the joint effects of ganglion cells, lagged LGN cells, and intercortical inhibition on spatiotemporal processing and direction selectivity</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -144,12 +144,12 @@ cookieconsent.run({
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">A Neural Spiking Approach Compared to Deep Feedforward Networks on Stepwise Pixel Erasement</h1>
+<h1 class="title">A systematic analysis of the joint effects of ganglion cells, lagged LGN cells, and intercortical inhibition on spatiotemporal processing and direction selectivity</h1>
 </div>
 
 <div>
   <div class="description">
-    Contribution to the ICANN 2018 conference.
+    - preprint -
   </div>
 </div>
 
@@ -160,7 +160,7 @@ cookieconsent.run({
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">September 28, 2018</p>
+      <p class="date">February 2, 2024</p>
     </div>
   </div>
   
@@ -172,14 +172,11 @@ cookieconsent.run({
 
 <section id="abstract" class="level3">
 <h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
-<p>In real world scenarios, objects are often partially occluded. This requires a robustness for object recognition against these perturbations. Convolutional networks have shown good performances in classification tasks. The learned convolutional filters seem similar to receptive fields of simple cells found in the primary visual cortex. Alternatively, spiking neural networks are more biological plausible. We developed a two layer spiking network, trained on natural scenes with a biologically plausible learning rule. It is compared to two deep convolutional neural networks using a classification task of stepwise pixel erasement on MNIST. In comparison to these networks the spiking approach achieves good accuracy and robustness.</p>
-<p>This work was published in Artificial Neural Networks and Machine Learning - ICANN 2018. - Cham : Springer International Publishing. 253-262.</p>
-<p>Please cite this work as:</p>
-<p>‘Larisch, R., Teichmann, M., Hamker, F.H. (2018). “A Neural Spiking Approach Compared to Deep Feedforward Networks on Stepwise Pixel Erasement.” <i>Artificial Neural Networks and Machine Learning - ICANN 2018. - Cham : Springer International Publishing. 253-262.</i>’</p>
-<p>doi-Link: <a href="http://dx.doi.org/10.1007/978-3-030-01418-6_25">http://dx.doi.org/10.1007/978-3-030-01418-6_25</a></p>
+<p>Simple cells in the visual cortex process spatial as well as temporal information of the visual stream and enable the perception of motion information. Previous work suggests that the direction selectivity of V1 simple cells is associated with a temporal offset in the thalamocortical input stream through lagged and non-lagged cells of the lateral geniculate nucleus (LGN), but also with intercortical inhibition. While there exists a large corpus of models for spatiotemporal receptive fields, the majority of them built-in the spatiotemporal dynamics by utilizing a combination of spatial and temporal functions and thus, do not explain the emergence of spatiotemporal dynamics on basis of network dynamics emerging in the retina and the LGN. In order to better comprehend the emergence of spatiotemporal processing and direction selectivity, we used a spiking neural network to implement the visual pathway from the retina to the primary visual cortex. By varying different functional parts in our network, we demonstrate how the direction selectivity of simple cells emerges through the interplay between two components: tuned intercortical inhibition and a temporal offset in the feedforward path through lagged LGN cells. Further, we observe that direction-selective simple cells are linked to a particular spiking pattern in a local excitatory-inhibitory circuit: If the stimulus moves in the non-preferred direction of a simple cell, inhibitory neurons with a different spatial position or tuning spike earlier, preventing the simple cell to spike. However, in the preferred direction, these inhibitory cells spike later, enabling the simple cell to spike.</p>
+<p>Paper is actual published as pre-print and can be found <a href="https://www.biorxiv.org/content/10.1101/2024.01.31.578157v1">here</a>.</p>
 <p>
 </p>
-<p><a href="https://arxiv.org/pdf/1912.03201">Download an arXive pre-print here</a></p>
+<p><a href="https://github.com/hamkerlab/Larisch2024_Spatiotemporal_Processing">Python code on Github</a></p>
 
 
 </section>

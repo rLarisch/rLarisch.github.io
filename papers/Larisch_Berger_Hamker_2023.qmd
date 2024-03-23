@@ -15,5 +15,9 @@ Please cite this work as:
 'Larisch, R., Berger, L., Hamker, F.H. (2023). Exploring the Role of Feedback Inhibition for the Robustness Against Corruptions on Event-Based Data. In: Iliadis, L., Papaleonidas, A., Angelov, P., Jayne, C. (eds) Artificial Neural Networks and Machine Learning – ICANN 2023. ICANN 2023. Lecture Notes in Computer Science, vol 14261. Springer, Cham.' 
 
 
-[doi-Link: https://doi.org/10.1007/978-3-031-44198-1_17](https://doi.org/10.1007/978-3-031-44198-1_17)
+doi-Link: [https://doi.org/10.1007/978-3-031-44198-1_17](https://doi.org/10.1007/978-3-031-44198-1_17)
+
+<p></p>
+
+[Python code on Github](https://github.com/hamkerlab/Larisch2023_EventBasedSNN)
 

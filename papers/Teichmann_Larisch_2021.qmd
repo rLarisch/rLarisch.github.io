@@ -19,9 +19,9 @@ Please cite this work as:
 Teichmann, M., Larisch, R., Hamker, F. H. (2021). "Performance of biologically grounded models of the early visual system on standard object recognition tasks." <i>JNeural Netw.</i>
 
 
-[doi-Link: https://doi.org/10.1016/j.neunet.2021.08.009](https://doi.org/10.1016/j.neunet.2021.08.009)
+doi-Link: [https://doi.org/10.1016/j.neunet.2021.08.009](https://doi.org/10.1016/j.neunet.2021.08.009)
 
 <p></p>
 
-[Python Code on Github] (https://github.com/hamkerlab/Teichmann2021_NeuralNetworks)
+[Python Code on Github](https://github.com/hamkerlab/Teichmann2021_NeuralNetworks)
 

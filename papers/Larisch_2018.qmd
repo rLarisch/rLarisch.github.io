@@ -15,8 +15,9 @@ Please cite this work as:
 
 'Larisch, R., Teichmann, M., Hamker, F.H. (2018). "A Neural Spiking Approach Compared to Deep Feedforward Networks on Stepwise Pixel Erasement. " <i>Artificial Neural Networks and Machine Learning - ICANN 2018. - Cham : Springer International Publishing. 253-262.</i>'
 
-[doi-Link: http://dx.doi.org/10.1007/978-3-030-01418-6_25](http://dx.doi.org/10.1007/978-3-030-01418-6_25)
+doi-Link: [http://dx.doi.org/10.1007/978-3-030-01418-6_25](http://dx.doi.org/10.1007/978-3-030-01418-6_25)
 
+<p></p>
 
 [Download an arXive pre-print here](https://arxiv.org/pdf/1912.03201)
 

@@ -17,7 +17,7 @@ Please cite the article as:
 
 Larisch, R. 2019. [Re] Connectivity reflects coding a model of voltage-based STDP with homeostasis. ReScience C 5, 3, #2.
 
-[doi Link: 10.5281/zenodo.3538217] (http://dx.doi.org/10.5281/zenodo.3538217)
+doi-Link: [10.5281/zenodo.3538217] (http://dx.doi.org/10.5281/zenodo.3538217)
 
 [Download the article here](https://zenodo.org/record/3538217/files/article.pdf)
 

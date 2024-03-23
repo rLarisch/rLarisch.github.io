@@ -1,0 +1,23 @@
+---
+title: "Detecting Anomalies in System Logs With a Compact Convolutional Transformer"
+description: 'Paper about the detection of anomalies in Log-Data'
+date: 2023-10-13
+---
+
+### Abstract
+
+Computer systems play an important role to ensure the correct functioning of critical systems such as train stations, power stations, emergency systems, and server infrastructures. To ensure the correct functioning and safety of these computer systems, the detection of abnormal system behavior is crucial. For that purpose, monitoring log data (mirroring the recent and current system status) is very commonly used. Because log data consists mainly of words and numbers, recent work used Transformer-based networks to analyze the log data and predict anomalies. Despite their success in fields such as natural language processing and computer vision, the main disadvantage of Transformers is the huge amount of trainable parameters, leading to long training times. In this work, we use a Compact Convolutional Transformer to detect anomalies in log data. Using convolutional layers leads to a much smaller number of trainable parameters and enable the processing of many consecutive log lines. We evaluate the proposed network on two standard datasets for log data anomaly detection, Blue Gene/L (BGL) and Spirit. Our results demonstrate that the combination of convolutional processing and self-attention improves the performance for anomaly detection in comparison to other self-supervised Transformer-based approaches, and is even on par with supervised approaches.
+
+This work was published in IEEE Access.
+
+Please cite this work as:
+
+R. Larisch, J. Vitay and F. H. Hamker, "Detecting Anomalies in System Logs With a Compact Convolutional Transformer," in IEEE Access, vol. 11, pp. 113464-113479, 2023, doi: 10.1109/ACCESS.2023.3323252.
+
+doi-Link: [https://doi.org/10.1109/ACCESS.2023.3323252](https://doi.org/10.1109/ACCESS.2023.3323252)
+
+
+<p></p>
+
+[Python code on Github](https://github.com/hamkerlab/Larisch2023_Detecting_Anomalies)
+

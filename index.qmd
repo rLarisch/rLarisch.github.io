@@ -9,12 +9,15 @@ about:
     - text: github
       href: https://github.com/rLarisch
       icon: "github"
+    - text: LinkedIn
+      href: www.linkedin.com/in/rené-larisch-1157772a1
+      icon: "linkedin"
+    - text: researchgate
+      href: https://www.researchgate.net/profile/Rene-Larisch
+      icon: "book-half"
     - text: twitter
       href: https://twitter.com/rene_larisch
       icon: "twitter"
-    - text: researchgate
-      href: https://www.researchgate.net/profile/Rene-Larisch
-      icon: "researchgate"
 ---
 
 ## Welcome! 
