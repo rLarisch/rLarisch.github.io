@@ -2,6 +2,10 @@
 title: "Conference Contributions"
 ---
 
+- Larisch, R., Hamker F. H. 2024, Object detection with deep learning and attention feedback loops
+\
+  Bernstein Conference, 2024, Frankfurt am Main, doi:10.12751/nncn.bc2024.112
+
 - Larisch, R., Hamker, F. H. 2023, Spatiotemporal dynamics in a V1 model caused by surround delays in retinal cells \
   32nd Annual Computational Neuroscience Meeting, 2023, Leipzig
 

@@ -9,16 +9,36 @@ renelarischif@gmail.com \
 rene.larisch@informatik.tu-chemnitz.de \
 
 
-+------------------------------------------+---------------------+
-| Eductation                               |                     |
-+:=========================================+====================:+
-| PhD at the Professorship                 |     since 2016      |
-| of Artificial Intelligence               |                     |
-| University of Technology Chemnitz        |                     |
-+------------------------------------------+---------------------+
-| Diploma in computer science              |  2008 - 2016        |
-| University of Technology Chemnitz        |                     |
-+------------------------------------------+---------------------+
++---------------------------------------------------------------------+-------------------------+
+| Work Experience                                                     |                         |
++:====================================================================+========================:+
+| Scientific Assistante                                               |     since 09/2024       |
+| Professorshipof Artificial Intelligence                             |                         |
+| University of Technology Chemnitz                                   |                         |
+| in _Counterfactual Assessment and Valuation_                        |                         |
+| _for Awareness Architecture (CAVAA)_                                |                         |
++---------------------------------------------------------------------+-------------------------+
+| Scientific Assistante                                               |   09/2020 - 10/2024     |
+| Professorshipof Artificial Intelligence                             |                         |
+| University of Technology Chemnitz                                   |                         |
+| in _Wissensbasierte Anomalieerkennung mittels Künstlicher_          |                         |
+| _Intelligenz in Kritischen Infrastrukturen(WAIKIKI)_                |                         |
++---------------------------------------------------------------------+-------------------------+
+
+
++---------------------------------------------------------------------+-------------------------+
+| Eductation                                                          |                         |
++:====================================================================+========================:+
+| PhD at the Professorship                                            |     since 10/2017       |
+| of Artificial Intelligence                                          |                         |
+| University of Technology Chemnitz                                   |                         |
+| Title: _The effects of inhibitory plasticity                        | **Expected Graduation** |
+| and the emerging network dynamics on processing visual information_ |      02/2025            |
++---------------------------------------------------------------------+-------------------------+
+| Diploma in computer science                                         |  2008 - 2016            |
+| University of Technology Chemnitz                                   |                         |
++---------------------------------------------------------------------+-------------------------+
+
 
 +------------------------------------------+---------------------+
 | Teaching Experience                      |                     |

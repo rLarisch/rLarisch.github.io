@@ -1,0 +1,20 @@
+---
+title: "Robustness of Biologically Grounded Neural Networks Against Image Perturbations"
+description: 'Contribution to the ICANN 2024 conference.'
+date: 2024-09-18
+---
+
+### Abstract
+
+The reliability of deep neural networks is critical for industrial applications as well as human safety and security. However, artificial deep neural networks have been found vulnerable to multiple kinds of natural, artificial, and adversarial image perturbations. In contrast, the human visual system has a remarkable robustness against a wide range of perturbations. At present, it is still unclear what mechanisms underlie this robustness. To better understand the robustness of biologically grounded neural networks, we evaluated two different biologically grounded neural networks of the primate visual system for their vulnerabilities to various image perturbations. We study a rate-based neural network, which utilizes Hebbian synaptic, intrinsic, and structural plasticity within a multi-layer neocortex-like architecture that includes feedforward excitation and inhibition, lateral inhibition, as well as feedback excitation and inhibition, and a spike-based neural network that focuses on a high degree of biologically plausible excitatory as well as inhibitory spike-timing-dependent plasticity. Both networks have been trained on natural scenes and have been earlier demonstrated to learn receptive fields and response properties of the visual cortex, and perform convincingly in object recognition in common computer vision benchmarks. We examine a subset of image perturbations from the corrupted MNIST dataset (MNIST-C) with the aim to test structural different perturbations. The investigated perturbations are namely Gaussian noise and blur, contrast, rotation, frost, and multi-line distractors. We applied them on the MNIST and EMNIST dataset. We report the degradation of recognition performance at different levels of perturbation intensity and indicate the improvement of the individual layers of both considered network types in comparison to the preprocessed input (LGN) as baseline.
+
+This work was published in Artificial Neural Networks and Machine Learning - ICANN 2024. Lecture Notes in Computer Science, vol 15025. Springer, Cham..
+
+Please cite this work as:
+
+'Teichmann, M., Larisch, R., Hamker, F.H. (2024). Robustness of Biologically Grounded Neural Networks Against Image Perturbations. In: Wand, M., Malinovská, K., Schmidhuber, J., Tetko, I.V. (eds) Artificial Neural Networks and Machine Learning – ICANN 2024. ICANN 2024. Lecture Notes in Computer Science, vol 15025. Springer, Cham.' 
+
+
+doi-Link: [https://doi.org/10.1007/978-3-031-72359-9_16](https://doi.org/10.1007/978-3-031-72359-9_16)
+
+

@@ -1,6 +1,6 @@
 ---
 title: "René Larisch"
-image: images/laren.png
+image: images/laren_2.png
 about: 
   template: solana
   image-shape: round
@@ -10,7 +10,7 @@ about:
       href: https://github.com/rLarisch
       icon: "github"
     - text: LinkedIn
-      href: www.linkedin.com/in/rené-larisch-1157772a1
+      href: https://linkedin.com/in/rene-larisch
       icon: "linkedin"
     - text: researchgate
       href: https://www.researchgate.net/profile/Rene-Larisch
@@ -18,6 +18,9 @@ about:
     - text: twitter
       href: https://twitter.com/rene_larisch
       icon: "twitter"
+    - text: ORCID
+      href: https://orcid.org/0000-0003-3544-0631
+      icon: "pen"
 ---
 
 ## Welcome! 
