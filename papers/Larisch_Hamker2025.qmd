@@ -1,0 +1,41 @@
+---
+title: "A systematic analysis of the joint effects of ganglion cells, lagged LGN cells, and intercortical inhibition on spatiotemporal processing and direction selectivity"
+description: 'Study about the emergence of spatiotemporal receptive fields and direction selectivity of V1 simple cells in a SNN.'
+date: 2025-02-11
+---
+
+### Abstract
+
+Simple cells in the visual cortex process spatial as well as temporal information of the visual stream and enable
+the perception of motion information. Previous work suggests different mechanisms associated with direction
+selectivity, such as a temporal offset in thalamocortical input stream through lagged and non-lagged cells of
+the lateral geniculate nucleus (LGN), or solely from intercortical inhibition, or through a baseline selectivity
+provided by the thalamocortical connection tuned by intercortical inhibition.
+While there exists a large corpus of models for spatiotemporal receptive fields, the majority of them built-in
+the spatiotemporal dynamics by utilizing a combination of spatial and temporal functions and thus, do not
+explain the emergence of spatiotemporal dynamics on basis of network dynamics emerging in the retina and
+the LGN. In order to better comprehend the emergence of spatiotemporal processing and direction selectivity,
+we used a spiking neural network to implement the visual pathway from the retina to the primary visual cortex.
+By varying different functional parts in our network, we demonstrate how the direction selectivity of simple
+cells emerges through the interplay between two components: tuned intercortical inhibition and a temporal
+offset in the feedforward path through lagged LGN cells. In contrast to previous findings, our model simulations
+suggest an alternative dynamic between these two mechanisms: While intercortical inhibition alone leads to
+bidirectional selectivity, a temporal shift in the thalamocortical pathway breaks this symmetry in favor of one
+direction, leading to unidirectional selectivity.
+
+Paper is published in Neural Networks as open access.
+
+
+doi-Link: [https://doi.org/10.1016/j.neunet.2025.107273](https://doi.org/10.1016/j.neunet.2025.107273)
+
+<p></p>
+
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0893608025001522/pdfft?md5=56573fe3a27cba4499a92b160e664004&pid=1-s2.0-S0893608025001522-main.pdf)
+
+<p></p>
+
+[Download a bioRxiv pre-print here ](https://www.biorxiv.org/content/10.1101/2024.01.31.578157v2)
+
+<p></p>
+
+[Python code on Github](https://github.com/hamkerlab/Larisch2024_Spatiotemporal_Processing)

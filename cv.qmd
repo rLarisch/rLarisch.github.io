@@ -12,13 +12,18 @@ rene.larisch@informatik.tu-chemnitz.de \
 +---------------------------------------------------------------------+-------------------------+
 | Work Experience                                                     |                         |
 +:====================================================================+========================:+
-| Scientific Assistante                                               |     since 09/2024       |
+| Scientific Researcher                                               |     since 06/2025       |
+| Professorshipof Artificial Intelligence                             |                         |
+| University of Technology Chemnitz                                   |                         |
+| in _Therabox_                                                       |                         |
++---------------------------------------------------------------------+-------------------------+
+| Scientific Researcher                                               |   10/2024 - 05/2025     |
 | Professorshipof Artificial Intelligence                             |                         |
 | University of Technology Chemnitz                                   |                         |
 | in _Counterfactual Assessment and Valuation_                        |                         |
 | _for Awareness Architecture (CAVAA)_                                |                         |
 +---------------------------------------------------------------------+-------------------------+
-| Scientific Assistante                                               |   09/2020 - 10/2024     |
+| Scientific Researcher                                               |   09/2020 - 09/2024     |
 | Professorshipof Artificial Intelligence                             |                         |
 | University of Technology Chemnitz                                   |                         |
 | in _Wissensbasierte Anomalieerkennung mittels Künstlicher_          |                         |
@@ -29,11 +34,11 @@ rene.larisch@informatik.tu-chemnitz.de \
 +---------------------------------------------------------------------+-------------------------+
 | Eductation                                                          |                         |
 +:====================================================================+========================:+
-| PhD at the Professorship                                            |     since 10/2017       |
+| PhD at the Professorship                                            |    10/2017 - 03/2025    |
 | of Artificial Intelligence                                          |                         |
 | University of Technology Chemnitz                                   |                         |
-| Title: _The effects of inhibitory plasticity                        | **Expected Graduation** |
-| and the emerging network dynamics on processing visual information_ |      02/2025            |
+| Title: _The effects of inhibitory plasticity                        |                         |
+| and the emerging network dynamics on processing visual information_ |                         |
 +---------------------------------------------------------------------+-------------------------+
 | Diploma in computer science                                         |  2008 - 2016            |
 | University of Technology Chemnitz                                   |                         |
@@ -65,7 +70,5 @@ rene.larisch@informatik.tu-chemnitz.de \
 | - Programming languages: Python, C++     |                      |
 +------------------------------------------+----------------------+
 | - Machine learning frameworks:           |                      |
-|   tensorflow, pythorch, scikit-learn     |                      |
+|   Tensorflow, PyTorch, scikit-learn      |                      |
 +------------------------------------------+----------------------+
-
-

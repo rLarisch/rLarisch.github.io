@@ -1,7 +1,7 @@
 ---
-title: "René Larisch"
+title: "Dr. René Larisch"
 image: images/laren_2.png
-about: 
+about:
   template: solana
   image-shape: round
   image-width: 12em
@@ -15,28 +15,26 @@ about:
     - text: researchgate
       href: https://www.researchgate.net/profile/Rene-Larisch
       icon: "book-half"
-    - text: twitter
-      href: https://twitter.com/rene_larisch
-      icon: "twitter"
     - text: ORCID
       href: https://orcid.org/0000-0003-3544-0631
       icon: "pen"
 ---
 
-## Welcome! 
 
-Hello and welcome visitor!
-My name is René Larisch and I'm a PhD student at the lab of Artificial Intelligence of Prof. Dr. Fred H. Hamker at the University of Technology in Chemnitz.
+AI researcher at the lab of Artificial Intelligence of Prof. Dr. Fred H. Hamker at the University of Technology in Chemnitz.
 
 ## Interests
 
-My research interests range from the dynamics caused by inhibitory plasticity in spiking neural networks, over neuromorphic computing to transformer models in deep learning. 
+My research interests range from the dynamics caused by inhibitory plasticity in spiking neural networks, over neuromorphic computing to transformer models in deep learning.
 Or as a list:
 
  - Representation of input information in neural networks
  - Plasticity and inhibition
  - Spiking neural networks
  - Attention-based deep learning
- - Neuromorphic programming 
+ - Robustness of large language models
+ - Neuromorphic programming
 
+## Current Projects
 
+ - Development of a system driven by a large language model that can automatically transcribe and summarize therapeutic sessions([more information](https://www.tu-chemnitz.de/informatik/KI/projects/therabox/index.php)).
